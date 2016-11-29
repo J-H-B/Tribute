@@ -8,3 +8,7 @@ $("#im1").attr({
 });
 
 $("footer").children().css("font-size","small");
+
+$(".p-can").css("color","white");
+$(".p-can").css("textAlign","justify");
+$(".p-can").css("fontSize","15px");
